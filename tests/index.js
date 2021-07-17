@@ -393,7 +393,7 @@ function start(arr) {
   var TIMESTAMP = Date.now();
   var font = new FontFace(
     "Twemoji Mozilla Built",
-    `url("../build/Twemoji Mozilla.ttf?${TIMESTAMP}") format("truetype")`,
+    `url("../build/TwemojiMozilla.ttf?${TIMESTAMP}") format("truetype")`,
     { style: "normal", weight: "normal" }
   );
   font.load().then(() => {
