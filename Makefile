@@ -4,7 +4,7 @@ PERL       ?= perl
 PYTHON     ?= python
 TTX        ?= ttx
 
-FONT_NAME  = Twemoji\ Mozilla
+FONT_NAME  = TwemojiMozilla
 
 BUILD_DIR  = build
 

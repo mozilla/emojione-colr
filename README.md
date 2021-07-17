@@ -40,4 +40,4 @@ Once the necessary build tools are all in place, simply running
 
     make
 
-should build the color-emoji font `build/Twemoji Mozilla.ttf` from the source SVG files found in `twe-svg.zip` file and `extras`, `overrides` directories.
+should build the color-emoji font `build/TwemojiMozilla.ttf` from the source SVG files found in `twe-svg.zip` file and `extras`, `overrides` directories.

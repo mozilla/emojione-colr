@@ -10,7 +10,7 @@ Below are things to do manually whenever you want to produce a new release.
 7. Amend the version number `package.json`.
 8. Run the build command with `make`. Please look at [README.md](./README.md) to figure out dependencies and how to install them.
 
-The resulting font can be found at `build/Twemoji Mozilla.ttf`.
+The resulting font can be found at `build/TwemojiMozilla.ttf`.
 
 You would need to ensure the glyph layers are converted correctly by running our test suite.
 
